@@ -8,6 +8,8 @@ github_username:  kxddahmisconf
 
 plugins:
   - jekyll-feed
+  - liquid-md5
+  - jekyll/tagging
 
 theme: jekyll-dash
 
@@ -52,10 +54,10 @@ dash:
       icon: github-square
       color: purple
     - url: https://hackerone.com/kiddah
-      icon: hackerone-square
+      icon: hackerone-com
       color: teal
     - url: https://bugcrowd.com/kiddah
-      icon: bugcrowd
+      icon: bugcrowd-com
       color: orange
   
   # wether the author box should be displayed or not

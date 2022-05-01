@@ -55,10 +55,10 @@ dash:
       icon: github-square
       color: purple
     - url: https://hackerone.com/kiddah
-      icon: stack-overflow
-      color: teal
+      icon: hackerrank
+      color: blue
     - url: https://bugcrowd.com/kiddah
-      icon: bugcrowd-com
+      icon: btc
       color: orange
   
   # wether the author box should be displayed or not

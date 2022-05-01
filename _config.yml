@@ -1,13 +1,13 @@
-title: Your awesome title
-email: your-email@example.com
+title: kxddahmisconf
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm Hardik Singh and go by the username ki(x)ddah on all platforms. I'm an InfoSec newbie and love all aspects of security with Web being my favourite category.
+  Currently doing bug bounty, playing ctfs and working towards new certifications. Would love internship/job opportunities in offensive
+  roles.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Kxddah
+github_username:  kxddahmisconf
 
 # Build settings
 plugins:
@@ -16,7 +16,7 @@ plugins:
 theme: jekyll-dash
 
 # required by disqus to display comments
-url: https://your-site-url
+url:
 
 # jekyll-paginate
 paginate: 5
@@ -36,7 +36,7 @@ dash:
 
   # (optional) discqus comment configuration
   disqus:
-    shortname: <your-disqus-shortname>  
+    shortname: 
 
   # the animation speed of the post scroll-in effect
   animation_speed: 50
@@ -53,13 +53,13 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/bitbrain_
+    - url: https://twitter.com/Kxddah
       icon: twitter-square
       color: cyan
-    - url: https://bitbrain.itch.io
-      icon: itch-io
+    - url: https://www.linkedin.com/in/hardik-singh-b875a5216/
+      icon: linkedin-square
       color: red
-    - url: https://github.com/bitbrain
+    - url: https://github.com/kxddahmisconf
       icon: github-square
       color: purple
   

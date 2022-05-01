@@ -8,8 +8,6 @@ github_username:  kxddahmisconf
 
 plugins:
   - jekyll-feed
-  - liquid-md5
-  - jekyll/tagging
 
 theme: jekyll-dash
 

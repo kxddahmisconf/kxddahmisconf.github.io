@@ -8,6 +8,8 @@ github_username:  kxddahmisconf
 
 plugins:
   - jekyll-feed
+  - liquid-md5
+  - jekyll/tagging
 
 theme: jekyll-dash
 
@@ -52,7 +54,7 @@ dash:
       icon: github-square
       color: purple
     - url: https://hackerone.com/kiddah
-      icon: hackerone
+      icon: hackerone-square
       color: teal
     - url: https://bugcrowd.com/kiddah
       icon: bugcrowd

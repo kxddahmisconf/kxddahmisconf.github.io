@@ -7,7 +7,6 @@ twitter_username: Kxddah
 github_username:  kxddahmisconf
 
 plugins:
-  - jekyll-feed
   - liquid-md5
   - jekyll/tagging
 

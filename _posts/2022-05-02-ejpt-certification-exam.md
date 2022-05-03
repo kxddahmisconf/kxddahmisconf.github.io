@@ -2,7 +2,7 @@
 layout: post
 title:  "eJPT Exam Review"
 date:   2022-05-02 0:10:00 +0530
-categories: eJPT Certification
+tags: eJPT Certification
 ---
 Last week I took my eJPT certification exam and cleared it🥳. So I thought of sharing my experience.
 <br/><br/>
